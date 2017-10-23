@@ -1,0 +1,32 @@
+﻿  CData.cpp
+  Options.cpp
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(208): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(249): warning C4101: e: неиспользованная локальная переменная
+  PlayingField.cpp
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(208): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(249): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1342): warning C4101: text: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1365): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1473): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1526): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1813): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1891): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1927): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1986): warning C4101: e: неиспользованная локальная переменная
+  StartScreen.cpp
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(208): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\Options.h(249): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1342): warning C4101: text: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1365): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1473): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1526): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1813): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1891): warning C4244: *=: преобразование "double" в "int", возможна потеря данных
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1927): warning C4101: e: неиспользованная локальная переменная
+j:\титовский александр\трпо\поле — копия\pole\pole_chudes_projectwovs\pole_chudes\PlayingField.h(1986): warning C4101: e: неиспользованная локальная переменная
+StartScreen.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CData.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Pole_Chudes.vcxproj -> J:\Титовский Александр\ТРПО\поле — копия\pole\Pole_Chudes_projectWOvs\Pole_Chudes\Debug\Pole_Chudes.exe
+  Pole_Chudes.vcxproj -> J:\Титовский Александр\ТРПО\поле — копия\pole\Pole_Chudes_projectWOvs\Pole_Chudes\Debug\Pole_Chudes.pdb (Partial PDB)
